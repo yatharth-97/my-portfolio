@@ -68,7 +68,7 @@ export const projects = [
     url: 'https://get-youtube-subscribers-alma.vercel.app/',
     github: 'https://github.com/yatharth-97/get-youtube-subscribers-alma',
     title: 'Get YouTube Subscribers API',
-    text: 'The project involves us to construct a RESTful API to obtain YouTube Subscribers data for a Mongodb database.',
+    text: 'The project involves us to construct a RESTful API to obtain YouTube Subscribers data for a Mongodb database. This project was built during my third module of Backend Development at AlmaBetter',
   },
   {
     id: nanoid(),
