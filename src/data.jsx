@@ -56,6 +56,14 @@ export const skills = [
 export const projects = [
   {
     id: nanoid(),
+    img: thirdProjectImage,
+    url: 'https://react-practice-furniture-store.netlify.app/',
+    github: 'https://github.com/yatharth-97/react-furniture-store',
+    title: 'Furniture Store',
+    text: 'A React project that displays beautiful website of an E-Commerce store. It uses User Authentication for login. Also you can select, add and buy your products from the website. It uses Stripe gateway testing for online payments.',
+  },
+  {
+    id: nanoid(),
     img: firstProjectImage,
     url: 'https://almabetter-quiz-app.netlify.app/',
     github: 'https://github.com/yatharth-97/quiz-alma-app',
@@ -69,13 +77,5 @@ export const projects = [
     github: 'https://github.com/yatharth-97/get-youtube-subscribers-alma',
     title: 'Get YouTube Subscribers API',
     text: 'The project involves us to construct a RESTful API to obtain YouTube Subscribers data for a Mongodb database. This project was built during my third module of Backend Development at AlmaBetter',
-  },
-  {
-    id: nanoid(),
-    img: thirdProjectImage,
-    url: 'https://react-practice-furniture-store.netlify.app/',
-    github: 'https://github.com/yatharth-97/react-furniture-store',
-    title: 'Furniture Store',
-    text: 'A React project that displays beautiful website of an E-Commerce store. It uses User Authentication for login. Also you can select, add and buy your products from the website. It uses Stripe gateway testing for online payments.',
   },
 ];
