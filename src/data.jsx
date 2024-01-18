@@ -57,10 +57,10 @@ export const projects = [
   {
     id: nanoid(),
     img: thirdProjectImage,
-    url: 'https://react-practice-furniture-store.netlify.app/',
-    github: 'https://github.com/yatharth-97/react-furniture-store',
+    url: 'https://react-longroads-app.netlify.app/',
+    github: 'https://github.com/yatharth-97/react-longroads-app',
     title: 'Furniture Store',
-    text: 'A React project that displays beautiful website of an E-Commerce store. It uses User Authentication for login. Also you can select, add and buy your products from the website. It uses Stripe gateway testing for online payments.',
+    text: 'A React Frontend project that displays beautiful website of a Tours and Travels Company.',
   },
   {
     id: nanoid(),
