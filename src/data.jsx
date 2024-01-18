@@ -37,19 +37,19 @@ export const skills = [
     id: nanoid(),
     title: 'MongoDB',
     icon: <SiMongodb className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Proficiency in MongoDB, showcasing skills in schema design, CRUD operations, indexing, aggregation, and data modeling.',
   },
   {
     id: nanoid(),
     title: 'ExpressJS',
     icon: <SiExpress className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Intermediate expertise in Express, featuring skills in routing, middleware, databases, APIs, authentication, testing, and security implementation.',
   },
   {
     id: nanoid(),
     title: 'NodeJS',
     icon: <FaNodeJs className='h-16 w-16 text-emerald-500' />,
-    text: 'Advanced proficiency in React, developing efficient and interactive front-end applications with a strong emphasis on component-based architecture.',
+    text: 'Proficiency in Node.js, demonstrating expertise in asynchronous programming, event-driven architecture, package management, and server-side development.',
   },
 ];
 
